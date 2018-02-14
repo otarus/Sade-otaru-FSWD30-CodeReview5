@@ -1,0 +1,118 @@
+.{
+	margin: auto;
+}
+
+
+.img{
+	height: 30px;
+	width:  30px;
+}
+
+header h1 {
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+}
+header{
+	background-color: #832692;
+	width: auto;
+	color: white;
+	padding: 10px;
+}
+h1 img {
+	width: 30px;
+	height: 50px;
+}
+
+main h1{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+
+
+}
+main{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/2b/32/ca/2b32ca6a5d504cad5b8bc8a9eaf1f589.jpg);
+	height: 400px;
+	float: left;
+	width: 1350px;
+}
+.row{
+	height: 30px;
+	width: auto;
+    color: white;
+    padding:10px;
+    margin-top: 30px
+
+}
+ 
+	
+.row h1{
+	height: 10px;
+	color: white;
+	padding: 30px;
+	text-align: center;
+	}
+
+.img{
+	height: 30px;
+	width: 30px;
+
+}
+
+
+
+.heart {
+	text-align: center;
+	height: 50px;
+	width: 50px;
+	padding: 10px;
+}
+
+.names{
+	margin-top: 20px;
+	padding: 10px;
+    background-color: red;
+
+}
+.names img{
+	float: right;
+	width: 120px;
+	height: 120px;
+	margin-top: 10px
+}
+.button{
+	margin-left:  20px;
+	color: blue;
+}
+.person1{
+	width: 90px;
+	height: 50px;
+	
+}
+.person2{
+	width: 50px;
+	height: 50px;
+}
+.person3{
+	 width: 50px;
+	 height: 50px;
+}
+.person4{
+	width: 50px;
+	height: 50px;
+}
+
+  /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: ;
+      padding: 15px;
+      font-size: 50px;
+      
+  }
+
+footer h1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: purple;
+}  
